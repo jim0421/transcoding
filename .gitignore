@@ -1,0 +1,8 @@
+### mp4 videos
+*.mp4
+
+# mp2 files
+*.mp2
+
+# pcm files
+*.pcm
