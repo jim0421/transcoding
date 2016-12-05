@@ -227,13 +227,14 @@ static void fshAllocateThread(fshEss *ess, char* input)
     strcat(fileName, ".mp2");
     int fileEnd = fshGetPeriod(fileName);
     printf("fileEnd is %d\n", fileEnd);
-
+    int pktNum = fileEnd / PKT_SIZE;
+    
     /*average to thread num*/
-    int avgLen = fileEnd / THREAD_CNT;
+    int avgLen = pktNum / THREAD_CNT;
     char* tmpChar;
     for (int i = 0; i < THREAD_CNT-1; i++){
-        ess[i].start = i * avgLen;
-        ess[i].end = (i+1) * avgLen;
+        ess[i].start = i * avgLen * PKT_SIZE;
+        ess[i].end = (i+1) * avgLen * PKT_SIZE;
         ess[i].inputName = newString;
         strcpy(ess[i].inputName, fileName);
         ess[i].outputName = newString;
@@ -243,8 +244,8 @@ static void fshAllocateThread(fshEss *ess, char* input)
         strcat(ess[i].outputName, tmpChar);
         free(tmpChar);
     }
-    ess[THREAD_CNT-1].start = (THREAD_CNT-1) * avgLen;//last one
-    ess[THREAD_CNT-1].end = fileEnd;
+    ess[THREAD_CNT-1].start = (THREAD_CNT-1) * avgLen * PKT_SIZE;//last one
+    ess[THREAD_CNT-1].end = pktNum * PKT_SIZE;
     ess[THREAD_CNT-1].inputName = newString;
     strcpy(ess[THREAD_CNT-1].inputName, fileName);
     ess[THREAD_CNT-1].outputName = newString;
