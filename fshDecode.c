@@ -5,6 +5,7 @@
 #include <math.h>
 #include <string.h>
 #include <pthread.h>
+#include <sys/time.h>
 #include <unistd.h>
 #include <stdio.h>
 #include <libavutil/opt.h>
@@ -31,6 +32,7 @@ static void fshAllocateThread(fshEss *ess, char* input);
 #include "fshTranscode.h"
 int main(int argc, char **argv)
 {
+    
 	/* register all the codecs */
     avcodec_register_all();
     
@@ -46,13 +48,18 @@ int main(int argc, char **argv)
     /*strcpy(output, argv[1]);*/
     strcpy(input, argv[1]);
     /*strcat(input,".mp2");*/
-	/*printf("input is %s and output is %s\n", input, output);*/
-    
+	/*printf("input is %s and output is %s\n", input, output);*/   
+    struct timeval tv_begin, tv_end;
+    gettimeofday(&tv_begin, NULL);
     /* initialize ess array */
     fshEss* ess = (fshEss*) (malloc(THREAD_CNT * sizeof(fshEss))); // not free
     
     /* allocate threads */
     fshAllocateThread(ess, input);
+    gettimeofday(&tv_end, NULL);
+    double timeDiff = (tv_end.tv_sec-tv_begin.tv_sec) +\
+        (tv_end.tv_usec-tv_begin.tv_usec)/1000000.0;
+    printf("XF time is %lf\n",timeDiff);
     int fshCount = THREAD_CNT;
 #ifdef DEBUG
     /*printf("come into debug\n");*/
