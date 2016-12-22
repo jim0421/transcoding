@@ -1,0 +1,78 @@
+fileEnd is 14400000
+>>> check buffer size is 14400000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> the start point is 0
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+fileEnd is 14400000
+>>> check buffer size is 14400000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> the start point is 0
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+fileEnd is 14400000
+>>> check buffer size is 14400000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> the start point is 0
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+fileEnd is 14400000
+>>> check buffer size is 14400000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> the start point is 0
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+fileEnd is 14400000
+>>> check buffer size is 14400000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> the start point is 0
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+fileEnd is 14400000
+>>> check buffer size is 14400000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> the start point is 0
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！

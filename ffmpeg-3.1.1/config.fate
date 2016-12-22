@@ -1,0 +1,1 @@
+config:x86:x86_64:generic:linux:gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609:--enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g

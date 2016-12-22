@@ -1,0 +1,213 @@
+/*
+ * modified by fsh @2016.10.16
+ */
+
+#include <math.h>
+#include <string.h>
+#include <pthread.h>
+#include <unistd.h>
+#include <stdio.h>
+#include <libavutil/opt.h>
+#include <libavcodec/avcodec.h>
+#include <libavutil/channel_layout.h>
+#include <libavutil/common.h>
+#include <libavutil/imgutils.h>
+#include <libavutil/mathematics.h>
+#include <libavutil/samplefmt.h>
+
+typedef struct fshEss
+{
+    int start;
+    int end;
+    char* inputName;
+    char* outputName;
+}fshEss;
+static void fshDecode(void* args);
+static void fshGetPeriod(char* filename);
+#define INBUF_SIZE 4096
+#define AUDIO_INBUF_SIZE 20480
+#define AUDIO_REFILL_THRESH 4096
+#define THREAD_CNT 1 
+
+int main(int argc, char **argv)
+{
+	/* register all the codecs */
+    avcodec_register_all();
+    
+    /* read in cmd args	*/
+    if (argc < 2) {
+        printf("usage: give the media to be decoded\n"\
+        	   "for example: big\n"\
+        	   "*.mp2 -> *.pcm\n");
+        return 1;
+    }
+    char* output = (char *)malloc(sizeof(char)*100);
+    char* input = (char *)malloc(sizeof(char)*100);
+    strcpy(output, argv[1]);
+    strcpy(input, argv[1]);
+    strcat(input,".mp2");
+	printf("input is %s and output is %s\n", input, output);
+    
+    /* initialize ess array */
+    fshEss* ess = (fshEss*) (malloc(THREAD_CNT * sizeof(fshEss))); // not free
+    ess[0].start = 1000000; ess[0].end = 2000000;
+    ess[0].inputName = (char *) (malloc(40 * sizeof(char)));
+    ess[0].inputName = input;
+    /*strcat(ess[0].inputName, input); */
+    //$$funking bug here
+    ess[0].outputName = (char *) (malloc(40 * sizeof(char)));
+    strcpy(ess[0].outputName, output); 
+    strcat(ess[0].outputName, "_1.pcm");
+    
+    ess[1].start = 1000000; ess[0].end = 2000000;
+    ess[1].inputName = (char *) (malloc(40 * sizeof(char)));
+    strcpy(ess[1].inputName, input); 
+    ess[1].outputName = (char *) (malloc(40 * sizeof(char)));
+    strcpy(ess[1].outputName, output); 
+    strcat(ess[1].outputName, "_2.pcm");
+    
+    fshGetPeriod(ess[0].inputName);
+    /* create threads */
+    pthread_t* threads = (pthread_t*) (malloc(THREAD_CNT * sizeof(pthread_t)));
+    for (int i = 0; i < THREAD_CNT; i++){
+        pthread_create(&threads[i], NULL, (void * (*)(void *))fshDecode, (void *)&ess[i]);
+    }
+    for (int i = 0; i < THREAD_CNT; i++){
+        pthread_join(threads[i], NULL);
+    }
+}
+
+static void fshGetPeriod(char* filename)
+{
+    FILE* fp = fopen(filename, "rb");
+    fseek(fp, 0L, SEEK_END);
+    int fz = ftell(fp);
+    printf("pivot fp is @ position %ld\n",fz);
+}
+
+/*
+ * Audio decoding.
+ */
+static void fshDecode(void* args)
+{
+    fshEss* es = (fshEss *)args;
+    const char* filename = es->inputName;
+    const char* outfilename = es->outputName;
+    int fshBufferSize = es->end - es->start;
+    printf("check buffer size is %d\n", fshBufferSize);
+    AVCodec *codec;
+    AVCodecContext *c= NULL;
+    int len;
+    FILE *f, *outfile;
+    uint8_t inbuf[AUDIO_INBUF_SIZE + AV_INPUT_BUFFER_PADDING_SIZE];
+    AVPacket avpkt;
+    AVFrame *decoded_frame = NULL;
+
+    av_init_packet(&avpkt);
+
+    printf("Decode audio file %s to %s\n", filename, outfilename);
+
+    /* find the MPEG audio decoder */
+    codec = avcodec_find_decoder(AV_CODEC_ID_MP2);
+    if (!codec) {
+        fprintf(stderr, "Codec not found\n");
+        exit(1);
+    }
+
+    c = avcodec_alloc_context3(codec);
+    if (!c) {
+        fprintf(stderr, "Could not allocate audio codec context\n");
+        exit(1);
+    }
+
+    /* open it */
+    if (avcodec_open2(c, codec, NULL) < 0) {
+        fprintf(stderr, "Could not open codec\n");
+        exit(1);
+    }
+
+    f = fopen(filename, "rb");
+    if (!f) {
+        fprintf(stderr, "Could not open %s\n", filename);
+        exit(1);
+    }
+    outfile = fopen(outfilename, "wb");
+    if (!outfile) {
+        av_free(c);
+        exit(1);
+    }
+    fseek(f, es->start, SEEK_SET);
+    printf("the start point is %d\n", ftell(f));
+    /* decode until f goes to ess.end */
+    avpkt.data = inbuf;
+    avpkt.size = fread(inbuf, 1, AUDIO_INBUF_SIZE, f);
+    fshBufferSize -= AUDIO_INBUF_SIZE;
+    int fillBufferSize;
+
+    //$$ suppose first inbuf is always correct, need checking
+    while (avpkt.size > 0) {
+        /*printf("pivot avpkt size is %d\n", avpkt.size);*/
+        // every avpkt has different size
+        int i, ch;
+        int got_frame = 0;
+
+        if (!decoded_frame) {
+            if (!(decoded_frame = av_frame_alloc())) {
+                fprintf(stderr, "Could not allocate audio frame\n");
+                exit(1);
+            }
+        }
+        /*printf("i is %d\n", i);*/
+        len = avcodec_decode_audio4(c, decoded_frame, &got_frame, &avpkt);
+        /*printf("pivot len is %d\n", len);*/
+        if (len < 0) {
+            fprintf(stderr, "Error while decoding\n");
+            exit(1);
+        }
+        if (got_frame) {
+            /*printf("pivot inside got_frame\n");*/
+            /* if a frame has been decoded, output it */
+            int data_size = av_get_bytes_per_sample(c->sample_fmt);
+            if (data_size < 0) {
+                /* This should not occur, checking just for paranoia */
+                fprintf(stderr, "Failed to calculate data size\n");
+                exit(1);
+            }
+            for (i=0; i<decoded_frame->nb_samples; i++){
+                for (ch=0; ch<c->channels; ch++){
+                    fwrite(decoded_frame->data[ch] + data_size*i, 1, data_size, outfile);
+                }
+            }
+        }
+        avpkt.size -= len;
+        avpkt.data += len;
+        //20480
+        avpkt.dts = avpkt.pts = AV_NOPTS_VALUE;
+        if (avpkt.size < AUDIO_REFILL_THRESH) {//4096
+            /* Refill the input buffer, to avoid trying to decode
+             * incomplete frames. Instead of this, one could also use
+             * a parser, or use a proper container format through
+             * libavformat. */
+            memmove(inbuf, avpkt.data, avpkt.size);
+            avpkt.data = inbuf;
+            if (fshBufferSize < (AUDIO_INBUF_SIZE-avpkt.size)){
+                fillBufferSize = fshBufferSize;
+                fshBufferSize = 0;
+            }else{
+                fillBufferSize = AUDIO_INBUF_SIZE-avpkt.size;
+                fshBufferSize -= fillBufferSize;
+            }
+            len = fread(avpkt.data + avpkt.size, 1, fillBufferSize, f);
+            if (len > 0)
+                avpkt.size += len;
+        }
+    }
+
+    fclose(outfile);
+    fclose(f);
+
+    avcodec_close(c);
+    av_free(c);
+    av_frame_free(&decoded_frame);
+}
+

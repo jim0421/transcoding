@@ -1,0 +1,1736 @@
+fsh@ppi-PowerEdge-R430:~/examples$ ./mu[K[K[K[K./mu[K[K[K[K./fconcat.sh 
+fileEnd is 259201152
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_1.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_3.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_4.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_2.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_5.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_6.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_7.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_8.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_9.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_11.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_10.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_12.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_14.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_13.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_16.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_15.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_17.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_18.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_19.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_20.pcm
+>>> the start point is 25920000
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_21.pcm
+>>> the start point is 6480000
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_22.pcm
+>>> the start point is 129600000
+>>> the start point is 32400000
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_23.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_24.pcm
+>>> the start point is 19440000
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_25.pcm
+>>> the start point is 142560000
+>>> the start point is 38880000
+>>> the start point is 45360000
+>>> check buffer size is 6480000
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_27.pcm
+>>> Decode audio file syw/big.mp2 to syw/big_26.pcm
+>>> the start point is 155520000
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_29.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_28.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_30.pcm
+>>> the start point is 58320000
+>>> the start point is 64800000
+>>> the start point is 71280000
+>>> the start point is 77760000
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_31.pcm
+>>> the start point is 97200000
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_32.pcm
+>>> the start point is 84240000
+>>> check buffer size is 6480000
+>>> the start point is 90720000
+>>> Decode audio file syw/big.mp2 to syw/big_33.pcm
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_34.pcm
+>>> the start point is 103680000
+>>> the start point is 110160000
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_35.pcm
+>>> the start point is 123120000
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_36.pcm
+>>> the start point is 213840000
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_37.pcm
+>>> the start point is 136080000
+>>> the start point is 12960000
+>>> check buffer size is 6481152
+>>> Decode audio file syw/big.mp2 to syw/big_39.pcm
+>>> the start point is 0
+>>> the start point is 149040000
+>>> check buffer size is 6480000
+>>> Decode audio file syw/big.mp2 to syw/big_38.pcm
+>>> the start point is 162000000
+>>> the start point is 51840000
+>>> the start point is 174960000
+>>> the start point is 181440000
+>>> the start point is 168480000
+>>> the start point is 187920000
+>>> the start point is 194400000
+>>> the start point is 207360000
+>>> the start point is 116640000
+>>> the start point is 220320000
+>>> the start point is 233280000
+>>> the start point is 239760000
+>>> the start point is 252720000
+>>> the start point is 226800000
+>>> the start point is 246240000
+>>> the start point is 200880000
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+Output #0, mp2, to 'syw/big_2.mp2':
+Output #0, mp2, to 'syw/big_3.mp2':
+Output #0, mp2, to 'syw/big_4.mp2':
+Output #0, mp2, to 'syw/big_5.mp2':
+pivot start time is 0
+Output #0, mp2, to 'syw/big_7.mp2':
+Output #0, mp2, to 'syw/big_6.mp2':
+Output #0, mp2, to 'syw/big_11.mp2':
+Output #0, mp2, to 'syw/big_1.mp2':
+Output #0, mp2, to 'syw/big_0.mp2':
+Output #0, mp2, to 'syw/big_8.mp2':
+pivot start time is 0
+Output #0, mp2, to 'syw/big_10.mp2':
+Output #0, mp2, to 'syw/big_9.mp2':
+Output #0, mp2, to 'syw/big_13.mp2':
+    Stream #0:0    Stream #0:0pivot start time is 0
+: Unknown: none
+pivot start time is 0
+pivot start time is 0
+    Stream #0:0pivot start time is 0
+: Unknown: none
+    Stream #0:0: Unknown: none
+Output #0, mp2, to 'syw/big_14.mp2':
+pivot start time is 0
+    Stream #0:0: Unknown: none
+Output #0, mp2, to 'syw/big_15.mp2':
+pivot start time is 0
+Output #0, mp2, to 'syw/big_18.mp2':
+pivot start time is 0
+pivot start time is 0
+    Stream #0:0: Unknown: none
+pivot start time is 0
+    Stream #0:0: Unknown: none
+pivot start time is 0
+    Stream #0:0: Unknown: none
+pivot start time is 0
+    Stream #0:0Output #0, mp2, to 'syw/big_22.mp2':
+Output #0, mp2, to 'syw/big_20.mp2':
+pivot start time is 0
+    Stream #0:0: Unknown: none    Stream #0:0: Unknown: nonepivot start time is 0
+Output #0, mp2, to 'syw/big_24.mp2':
+pivot start time is 0
+    Stream #0:0: Unknown: nonepivot start time is 0
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: nonepivot start time is 0
+
+pivot start time is 0
+Output #0, mp2, to 'syw/big_16.mp2':
+Output #0, mp2, to 'syw/big_17.mp2':
+[1;35m[mp2 @ 0x7f9a48000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mpivot start time is 0
+    Stream #0:0: Unknown: none
+
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+pivot start time is 0
+pivot start time is 0
+[1;35m[mp2 @ 0x7f9a58000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mpivot start time is 0
+[1;35m[mp2 @ 0x7f9a58000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7f9a4c000b20] [0mpivot start time is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mfirst ftell is 0
+[1;35m[mp2 @ 0x7f9a4c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot start time is 0
+
+    Stream #0:0: Unknown: nonepivot initial size is 4608
+first ftell is 0
+
+[1;35m[mp2 @ 0x7f9a7c000f00] [0mpivot start time is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a7c000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/big_26.mp2':
+pivot start time is 0
+    Stream #0:0: Unknown: none
+pivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f9a14000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a14000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m    Stream #0:0pivot initial size is 4608
+: Unknown: nonefirst ftell is 0
+
+[1;35m[mp2 @ 0x7f9a64000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a64000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7f9a2c000b20] [0mpivot initial size is 4608
+first ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a2c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+Output #0, mp2, to 'syw/big_29.mp2':
+[1;35m[mp2 @ 0x7f9a38000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m
+Output #0, mp2, to 'syw/big_19.mp2':
+Output #0, mp2, to 'syw/big_31.mp2':
+Output #0, mp2, to 'syw/big_32.mp2':
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: noneOutput #0, mp2, to 'syw/big_33.mp2':
+[1;35m[mp2 @ 0x7f9a6c000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a6c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f9a04000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a74000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a74000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m: Unknown: nonepivot initial size is 4608
+
+first ftell is 0
+Output #0, mp2, to 'syw/big_36.mp2':
+    Stream #0:0: Unknown: none
+Output #0, mp2, to 'syw/big_39.mp2':
+[1;35m[mp2 @ 0x7f9a28000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a28000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+Output #0, mp2, to 'syw/big_27.mp2':
+first ftell is 0
+Output #0, mp2, to 'syw/big_38.mp2':
+Output #0, mp2, to 'syw/big_28.mp2':
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f9a38000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/big_30.mp2':
+pivot initial size is 4608
+[1;35m[mp2 @ 0x7f99cc000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a60000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a60000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f9a50000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a50000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+: Unknown: none
+[1;35m[mp2 @ 0x7f99fc000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a5c000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a5c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/big_35.mp2':
+pivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f99f8000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f99f8000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f9a04000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m    Stream #0:0pivot initial size is 4608
+: Unknown: nonefirst ftell is 0
+
+[1;35m[mp2 @ 0x7f9a3c000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a3c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f9a34000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a34000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7f9a48000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/big_12.mp2':
+pivot initial size is 4608
+first ftell is 0
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f9a24000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a24000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7f99c4000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f99c4000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7f9a0c000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a0c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f9a54000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a54000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mfirst ftell is 0
+pivot initial size is 4608
+[1;35m[mp2 @ 0x7f99fc000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/big_25.mp2':
+pivot initial size is 4608
+
+first ftell is 0
+    Stream #0:0: Unknown: none
+Output #0, mp2, to 'syw/big_21.mp2':
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f9a20000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a20000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f99d4000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f99d4000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/big_23.mp2':
+pivot initial size is 4608
+    Stream #0:0first ftell is 0
+: Unknown: none
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f99f0000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f99f0000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f9a10000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a10000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+Output #0, mp2, to 'syw/big_37.mp2':
+[1;35m[mp2 @ 0x7f99dc000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f99dc000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7f9a70000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a70000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m    Stream #0:0pivot initial size is 4608
+: Unknown: nonefirst ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f99ec000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m    Stream #0:0pivot initial size is 4608
+first ftell is 0
+: Unknown: none
+[1;35m[mp2 @ 0x7f9a1c000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a1c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7f99e4000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f99e4000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7f99e0000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f99e0000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7f9a00000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a00000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+Output #0, mp2, to 'syw/big_34.mp2':
+    Stream #0:0: Unknown: none    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f9a40000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a40000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+
+pivot initial size is 4608
+first ftell is 0
+
+[1;35m[mp2 @ 0x7f99f4000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f99cc000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m    Stream #0:0pivot initial size is 4608
+first ftell is 0
+: Unknown: none
+[1;35m[mp2 @ 0x7f99d8000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f99d8000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f99f4000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7f99e8000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f99e8000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f9a08000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f9a08000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0x202b720] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0x203bec0] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+[0;35m[mp3 @ 0x20479e0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 2 times    Last message repeated 3 times    Last message repeated 4 times    Last message repeated 4 times
+[0;35m[mp3 @ 0x20462c0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 2 times    Last message repeated 3 times    Last message repeated 3 times
+size=   19497kB time=00:20:47.80 bitrate= 128.0kbits/s speed=2.5e+03x    [0;35m[mp3 @ 0x20462c0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 2 times    Last message repeated 3 times    Last message repeated 4 times    Last message repeated 5 times    Last message repeated 6 times    Last message repeated 7 times    Last message repeated 8 times    Last message repeated 9 times    Last message repeated 9 times
+size=   41145kB time=00:43:53.30 bitrate= 128.0kbits/s speed=2.63e+03x    [0;35m[mp3 @ 0x20462c0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 2 times    Last message repeated 3 times    Last message repeated 4 times    Last message repeated 5 times    Last message repeated 6 times    Last message repeated 7 times    Last message repeated 8 times    Last message repeated 9 times    Last message repeated 9 times
+size=   62729kB time=01:06:54.64 bitrate= 128.0kbits/s speed=2.68e+03x    [0;35m[mp3 @ 0x20462c0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 2 times    Last message repeated 3 times    Last message repeated 4 times    Last message repeated 5 times    Last message repeated 6 times    Last message repeated 7 times    Last message repeated 8 times    Last message repeated 9 times    Last message repeated 9 times
+size=   84360kB time=01:29:59.01 bitrate= 128.0kbits/s speed=2.7e+03x    size=   84375kB time=01:30:00.02 bitrate= 128.0kbits/s speed=2.7e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m2.012s
+user	0m1.644s
+sys	0m0.368s
+fsh@ppi-PowerEdge-R430:~/examples$ ./fconcat.sh [K./fshPile.sh 
+rm -f test*.pgm test.h264 test.mp2 test.sw test.mpg
+rm -f decoding_encoding fshDecode decoding_encoding.o fshDecode.o
+cc -Ipc-uninstalled/../../..   -w -g -std=c99    -c -o decoding_encoding.o decoding_encoding.c
+cc -Ipc-uninstalled/../../..   -w -g -std=c99    -c -o fshDecode.o fshDecode.c
+cc   decoding_encoding.o  -Wl,-rpath,pc-uninstalled/../../../libavdevice -Wl,-rpath,pc-uninstalled/../../../libavfilter -Wl,-rpath,pc-uninstalled/../../../libswscale -Wl,-rpath,pc-uninstalled/../../../libpostproc -Wl,-rpath,pc-uninstalled/../../../libavformat -Wl,-rpath,pc-uninstalled/../../../libavcodec -Wl,-rpath,pc-uninstalled/../../../libswresample -Wl,-rpath,pc-uninstalled/../../../libavutil -Lpc-uninstalled/../../../libavdevice -Lpc-uninstalled/../../../libavfilter -Lpc-uninstalled/../../../libswscale -Lpc-uninstalled/../../../libpostproc -Lpc-uninstalled/../../../libavformat -Lpc-uninstalled/../../../libavcodec -Lpc-uninstalled/../../../libswresample -Lpc-uninstalled/../../../libavutil -lavdevice -lavfilter -lpostproc -lavformat -lavcodec -lswresample -lswscale -lavutil    -lm -o decoding_encoding
+cc   fshDecode.o  -Wl,-rpath,pc-uninstalled/../../../libavdevice -Wl,-rpath,pc-uninstalled/../../../libavfilter -Wl,-rpath,pc-uninstalled/../../../libswscale -Wl,-rpath,pc-uninstalled/../../../libpostproc -Wl,-rpath,pc-uninstalled/../../../libavformat -Wl,-rpath,pc-uninstalled/../../../libavcodec -Wl,-rpath,pc-uninstalled/../../../libswresample -Wl,-rpath,pc-uninstalled/../../../libavutil -Lpc-uninstalled/../../../libavdevice -Lpc-uninstalled/../../../libavfilter -Lpc-uninstalled/../../../libswscale -Lpc-uninstalled/../../../libpostproc -Lpc-uninstalled/../../../libavformat -Lpc-uninstalled/../../../libavcodec -Lpc-uninstalled/../../../libswresample -Lpc-uninstalled/../../../libavutil -lavdevice -lavfilter -lpostproc -lavformat -lavcodec -lswresample -lswscale -lavutil    -lpthread -o fshDecode
+fsh@ppi-PowerEdge-R430:~/examples$ ./fshPile.sh concat[C[C[C[C
+fileEnd is 259201152
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_1.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_4.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_2.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_3.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_5.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_6.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_7.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_8.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_9.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_10.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_11.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_12.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_13.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_14.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_15.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_16.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_17.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_18.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_19.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_20.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_21.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_23.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_22.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_24.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_25.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_26.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_27.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_28.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_29.pcm
+>>> check buffer size is 8099712
+>>> Decode audio file syw/big.mp2 to syw/big_30.pcm
+>>> the start point is 16199424
+>>> check buffer size is 8110080
+>>> Decode audio file syw/big.mp2 to syw/big_31.pcm
+>>> the start point is 8099712
+>>> the start point is 0
+>>> the start point is 40498560
+>>> the start point is 32398848
+>>> the start point is 48598272
+>>> the start point is 24299136
+>>> the start point is 56697984
+>>> the start point is 80997120
+>>> the start point is 72897408
+>>> the start point is 64797696
+>>> the start point is 89096832
+>>> the start point is 105296256
+>>> the start point is 97196544
+>>> the start point is 113395968
+>>> the start point is 121495680
+>>> the start point is 137695104
+>>> the start point is 129595392
+>>> the start point is 161994240
+>>> the start point is 170093952
+>>> the start point is 186293376
+>>> the start point is 194393088
+>>> the start point is 178193664
+>>> the start point is 210592512
+>>> the start point is 218692224
+>>> the start point is 202492800
+>>> the start point is 145794816
+>>> the start point is 251091072
+>>> the start point is 226791936
+>>> the start point is 234891648
+>>> the start point is 242991360
+>>> the start point is 153894528
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+Output #0, mp2, to 'syw/big_3.mp2':
+Output #0, mp2, to 'syw/big_4.mp2':
+Output #0, mp2, to 'syw/big_1.mp2':
+Output #0, mp2, to 'syw/big_7.mp2':
+Output #0, mp2, to 'syw/big_0.mp2':
+Output #0, mp2, to 'syw/big_5.mp2':
+Output #0, mp2, to 'syw/big_6.mp2':
+pivot start time is 0
+Output #0, mp2, to 'syw/big_2.mp2':
+pivot start time is 0
+Output #0, mp2, to 'syw/big_10.mp2':
+Output #0, mp2, to 'syw/big_9.mp2':
+Output #0, mp2, to 'syw/big_8.mp2':
+pivot start time is 0
+    Stream #0:0: Unknown: none
+pivot start time is 0
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+pivot start time is 0
+    Stream #0:0: Unknown: none
+pivot start time is 0
+    Stream #0:0: Unknown: none
+pivot start time is 0
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+Output #0, mp2, to 'syw/big_14.mp2':
+    Stream #0:0pivot start time is 0
+pivot start time is 0
+: Unknown: nonepivot start time is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb990000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/big_17.mp2':
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+pivot start time is 0
+pivot initial size is 4608
+first ftell is 0
+    Stream #0:0: Unknown: none
+Output #0, mp2, to 'syw/big_15.mp2':
+pivot start time is 0
+Output #0, mp2, to 'syw/big_18.mp2':
+
+pivot start time is 0
+    Stream #0:0: Unknown: none
+Output #0, mp2, to 'syw/big_13.mp2':
+pivot start time is 0
+pivot start time is 0
+[1;35m[mp2 @ 0x7fb970000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb970000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m    Stream #0:0pivot initial size is 4608
+first ftell is 0
+: Unknown: nonepivot start time is 0
+
+Output #0, mp2, to 'syw/big_16.mp2':
+pivot start time is 0
+pivot start time is 0
+    Stream #0:0pivot start time is 0
+: Unknown: none
+[1;35m[mp2 @ 0x7fb988000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb988000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+Output #0, mp2, to 'syw/big_23.mp2':
+[1;35m[mp2 @ 0x7fb95c000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mpivot start time is 0
+Output #0, mp2, to 'syw/big_29.mp2':
+pivot start time is 0
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7fb984000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb984000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7fb978000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb978000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+Output #0, mp2, to 'syw/big_19.mp2':
+    Stream #0:0: Unknown: none
+Output #0, mp2, to 'syw/big_24.mp2':
+    Stream #0:0[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb94c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/big_26.mp2':
+pivot initial size is 4608
+first ftell is 0
+    Stream #0:0[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mOutput #0, mp2, to 'syw/big_20.mp2':
+    Stream #0:0Output #0, mp2, to 'syw/big_27.mp2':
+    Stream #0:0    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7fb950000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb950000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/big_21.mp2':
+pivot initial size is 4608
+Output #0, mp2, to 'syw/big_28.mp2':
+first ftell is 0
+Output #0, mp2, to 'syw/big_30.mp2':
+[1;35m[mp2 @ 0x7fb974000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb974000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/big_31.mp2':
+pivot initial size is 4608
+first ftell is 0
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+: Unknown: none
+[1;35m[mp2 @ 0x7fb96c000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb96c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+Output #0, mp2, to 'syw/big_12.mp2':
+    Stream #0:0: Unknown: none
+: Unknown: none
+[1;35m[mp2 @ 0x7fb958000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7fb924000b20] [0mpivot initial size is 4608
+first ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb924000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+: Unknown: none
+[1;35m[mp2 @ 0x7fb95c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7fb934000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7fb934000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+Output #0, mp2, to 'syw/big_11.mp2':
+Output #0, mp2, to 'syw/big_22.mp2':
+[1;35m[mp2 @ 0x7fb948000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb948000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7fb920000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb920000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7fb98c000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb98c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m    Stream #0:0pivot initial size is 4608
+first ftell is 0
+: Unknown: none
+Output #0, mp2, to 'syw/big_25.mp2':
+[1;35m[mp2 @ 0x7fb998000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb998000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7fb980000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb980000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7fb964000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7fb964000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7fb90c000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb90c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+    Stream #0:0: Unknown: none
+: Unknown: none
+[1;35m[mp2 @ 0x7fb9a0000f00] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb9a0000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7fb940000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb940000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7fb938000b20] [0mpivot initial size is 4608
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mfirst ftell is 0
+[1;35m[mp2 @ 0x7fb938000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7fb92c000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb92c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7fb954000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7fb954000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7fb930000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mfirst ftell is 0
+[1;35m[mp2 @ 0x7fb930000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7fb918000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb918000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7fb928000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb928000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m    Stream #0:0pivot initial size is 4608
+first ftell is 0
+: Unknown: none
+[1;35m[mp2 @ 0x7fb960000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb960000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7fb968000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb968000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7fb944000b20] [0mpivot initial size is 4608
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mfirst ftell is 0
+[1;35m[mp2 @ 0x7fb944000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m    Stream #0:0pivot initial size is 4608
+first ftell is 0
+: Unknown: none
+[1;35m[mp2 @ 0x7fb914000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb914000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0x1298d20] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0x12a94c0] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+[0;35m[mp3 @ 0x12b2220] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 2 times    Last message repeated 3 times    Last message repeated 4 times    Last message repeated 5 times    Last message repeated 6 times    Last message repeated 6 times
+size=   19027kB time=00:20:17.73 bitrate= 128.0kbits/s speed=2.44e+03x    [0;35m[mp3 @ 0x12b2220] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 2 times    Last message repeated 3 times    Last message repeated 4 times    Last message repeated 5 times    Last message repeated 6 times    Last message repeated 7 times    Last message repeated 7 times
+size=   40335kB time=00:43:01.44 bitrate= 128.0kbits/s speed=2.58e+03x    [0;35m[mp3 @ 0x12b2220] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 2 times    Last message repeated 3 times    Last message repeated 4 times    Last message repeated 5 times    Last message repeated 6 times    Last message repeated 7 times    Last message repeated 7 times
+size=   61662kB time=01:05:46.36 bitrate= 128.0kbits/s speed=2.63e+03x    [0;35m[mp3 @ 0x12b2220] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 2 times    Last message repeated 3 times    Last message repeated 4 times    Last message repeated 5 times    Last message repeated 6 times    Last message repeated 7 times    Last message repeated 7 times
+size=   83036kB time=01:28:34.29 bitrate= 128.0kbits/s speed=2.66e+03x    size=   84375kB time=01:30:00.02 bitrate= 128.0kbits/s speed=2.66e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m2.043s
+user	0m1.676s
+sys	0m0.364s
+fsh@ppi-PowerEdge-R430:~/examples$ ./fconcat.sh shPile[C[C[C[C
+rm -f test*.pgm test.h264 test.mp2 test.sw test.mpg
+rm -f decoding_encoding fshDecode decoding_encoding.o fshDecode.o
+cc -Ipc-uninstalled/../../..   -w -g -std=c99    -c -o decoding_encoding.o decoding_encoding.c
+cc -Ipc-uninstalled/../../..   -w -g -std=c99    -c -o fshDecode.o fshDecode.c
+cc   decoding_encoding.o  -Wl,-rpath,pc-uninstalled/../../../libavdevice -Wl,-rpath,pc-uninstalled/../../../libavfilter -Wl,-rpath,pc-uninstalled/../../../libswscale -Wl,-rpath,pc-uninstalled/../../../libpostproc -Wl,-rpath,pc-uninstalled/../../../libavformat -Wl,-rpath,pc-uninstalled/../../../libavcodec -Wl,-rpath,pc-uninstalled/../../../libswresample -Wl,-rpath,pc-uninstalled/../../../libavutil -Lpc-uninstalled/../../../libavdevice -Lpc-uninstalled/../../../libavfilter -Lpc-uninstalled/../../../libswscale -Lpc-uninstalled/../../../libpostproc -Lpc-uninstalled/../../../libavformat -Lpc-uninstalled/../../../libavcodec -Lpc-uninstalled/../../../libswresample -Lpc-uninstalled/../../../libavutil -lavdevice -lavfilter -lpostproc -lavformat -lavcodec -lswresample -lswscale -lavutil    -lm -o decoding_encoding
+cc   fshDecode.o  -Wl,-rpath,pc-uninstalled/../../../libavdevice -Wl,-rpath,pc-uninstalled/../../../libavfilter -Wl,-rpath,pc-uninstalled/../../../libswscale -Wl,-rpath,pc-uninstalled/../../../libpostproc -Wl,-rpath,pc-uninstalled/../../../libavformat -Wl,-rpath,pc-uninstalled/../../../libavcodec -Wl,-rpath,pc-uninstalled/../../../libswresample -Wl,-rpath,pc-uninstalled/../../../libavutil -Lpc-uninstalled/../../../libavdevice -Lpc-uninstalled/../../../libavfilter -Lpc-uninstalled/../../../libswscale -Lpc-uninstalled/../../../libpostproc -Lpc-uninstalled/../../../libavformat -Lpc-uninstalled/../../../libavcodec -Lpc-uninstalled/../../../libswresample -Lpc-uninstalled/../../../libavutil -lavdevice -lavfilter -lpostproc -lavformat -lavcodec -lswresample -lswscale -lavutil    -lpthread -o fshDecode
+fsh@ppi-PowerEdge-R430:~/examples$ ./fshPile.sh concat[C[C[C[C
+fileEnd is 259201152
+>>> check buffer size is 16199424
+>>> check buffer size is 16199424
+>>> Decode audio file syw/big.mp2 to syw/big_1.pcm
+>>> check buffer size is 16199424
+>>> check buffer size is 16199424
+>>> Decode audio file syw/big.mp2 to syw/big_3.pcm
+>>> check buffer size is 16199424
+>>> Decode audio file syw/big.mp2 to syw/big_4.pcm
+>>> check buffer size is 16199424
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> check buffer size is 16199424
+>>> Decode audio file syw/big.mp2 to syw/big_6.pcm
+>>> Decode audio file syw/big.mp2 to syw/big_5.pcm
+>>> check buffer size is 16199424
+>>> Decode audio file syw/big.mp2 to syw/big_7.pcm
+>>> Decode audio file syw/big.mp2 to syw/big_2.pcm
+>>> check buffer size is 16199424
+>>> Decode audio file syw/big.mp2 to syw/big_8.pcm
+>>> check buffer size is 16199424
+>>> Decode audio file syw/big.mp2 to syw/big_9.pcm
+>>> check buffer size is 16199424
+>>> Decode audio file syw/big.mp2 to syw/big_10.pcm
+>>> check buffer size is 16199424
+>>> Decode audio file syw/big.mp2 to syw/big_11.pcm
+>>> check buffer size is 16199424
+>>> Decode audio file syw/big.mp2 to syw/big_12.pcm
+>>> check buffer size is 16199424
+>>> Decode audio file syw/big.mp2 to syw/big_13.pcm
+>>> check buffer size is 16199424
+>>> Decode audio file syw/big.mp2 to syw/big_14.pcm
+>>> check buffer size is 16209792
+>>> Decode audio file syw/big.mp2 to syw/big_15.pcm
+>>> the start point is 32398848
+>>> the start point is 97196544
+>>> the start point is 80997120
+>>> the start point is 113395968
+>>> the start point is 0
+>>> the start point is 129595392
+>>> the start point is 48598272
+>>> the start point is 64797696
+>>> the start point is 16199424
+>>> the start point is 145794816
+>>> the start point is 161994240
+>>> the start point is 178193664
+>>> the start point is 194393088
+>>> the start point is 210592512
+>>> the start point is 242991360
+>>> the start point is 226791936
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+Output #0, mp2, to 'syw/big_3.mp2':
+pivot start time is 0
+Output #0, mp2, to 'syw/big_2.mp2':
+Output #0, mp2, to 'syw/big_5.mp2':
+pivot start time is 0
+Output #0, mp2, to 'syw/big_7.mp2':
+Output #0, mp2, to 'syw/big_4.mp2':
+pivot start time is 0
+Output #0, mp2, to 'syw/big_0.mp2':
+Output #0, mp2, to 'syw/big_9.mp2':
+pivot start time is 0
+Output #0, mp2, to 'syw/big_6.mp2':
+Output #0, mp2, to 'syw/big_8.mp2':
+    Stream #0:0: Unknown: none
+Output #0, mp2, to 'syw/big_10.mp2':
+    Stream #0:0: Unknown: none    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+    Stream #0:0pivot start time is 0
+: Unknown: none
+Output #0, mp2, to 'syw/big_1.mp2':
+Output #0, mp2, to 'syw/big_12.mp2':
+    Stream #0:0: Unknown: none
+
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f8d64000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mOutput #0, mp2, to 'syw/big_15.mp2':
+    Stream #0:0: Unknown: none
+Output #0, mp2, to 'syw/big_13.mp2':
+[1;35m[mp2 @ 0x7f8d30000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f8d30000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7f8d3c000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f8d3c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7f8d4c000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7f8d4c000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m    Stream #0:0pivot initial size is 4608
+first ftell is 0
+: Unknown: none
+[1;35m[mp2 @ 0x7f8d64000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7f8d34000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mfirst ftell is 0
+[1;35m[mp2 @ 0x7f8d34000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m    Stream #0:0pivot initial size is 4608
+: Unknown: nonefirst ftell is 0
+
+[1;35m[mp2 @ 0x7f8d60000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f8d60000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f8d5c000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f8d5c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f8d70000f00] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f8d70000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f8d54000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f8d54000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f8d6c000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f8d6c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+Output #0, mp2, to 'syw/big_14.mp2':
+first ftell is 0
+[1;35m[mp2 @ 0x7f8d68000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f8d68000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7f8d58000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f8d58000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7f8d44000b20] [0mpivot initial size is 4608
+first ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f8d44000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+Output #0, mp2, to 'syw/big_11.mp2':
+[1;35m[mp2 @ 0x7f8d2c000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f8d2c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m    Stream #0:0pivot initial size is 4608
+: Unknown: nonefirst ftell is 0
+
+[1;35m[mp2 @ 0x7f8d38000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f8d38000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7f8d40000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7f8d40000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0xb542e0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0xb64920] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+[0;35m[mp3 @ 0xb6fb00] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 2 times    Last message repeated 2 times
+size=   19811kB time=00:21:07.92 bitrate= 128.0kbits/s speed=2.54e+03x    [0;35m[mp3 @ 0xb6fb00] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 2 times    Last message repeated 3 times    Last message repeated 3 times
+size=   40079kB time=00:42:45.04 bitrate= 128.0kbits/s speed=2.57e+03x    [0;35m[mp3 @ 0xb6fb00] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 2 times    Last message repeated 3 times    Last message repeated 3 times
+size=   60420kB time=01:04:26.88 bitrate= 128.0kbits/s speed=2.58e+03x    [0;35m[mp3 @ 0xb6fb00] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 2 times    Last message repeated 3 times    Last message repeated 3 times
+size=   80717kB time=01:26:05.88 bitrate= 128.0kbits/s speed=2.58e+03x    size=   84375kB time=01:30:00.02 bitrate= 128.0kbits/s speed=2.58e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m2.102s
+user	0m1.736s
+sys	0m0.364s
+fsh@ppi-PowerEdge-R430:~/examples$ ./fconcat.sh shPile[C[C[C[C
+rm -f test*.pgm test.h264 test.mp2 test.sw test.mpg
+rm -f decoding_encoding fshDecode decoding_encoding.o fshDecode.o
+cc -Ipc-uninstalled/../../..   -w -g -std=c99    -c -o decoding_encoding.o decoding_encoding.c
+cc -Ipc-uninstalled/../../..   -w -g -std=c99    -c -o fshDecode.o fshDecode.c
+cc   decoding_encoding.o  -Wl,-rpath,pc-uninstalled/../../../libavdevice -Wl,-rpath,pc-uninstalled/../../../libavfilter -Wl,-rpath,pc-uninstalled/../../../libswscale -Wl,-rpath,pc-uninstalled/../../../libpostproc -Wl,-rpath,pc-uninstalled/../../../libavformat -Wl,-rpath,pc-uninstalled/../../../libavcodec -Wl,-rpath,pc-uninstalled/../../../libswresample -Wl,-rpath,pc-uninstalled/../../../libavutil -Lpc-uninstalled/../../../libavdevice -Lpc-uninstalled/../../../libavfilter -Lpc-uninstalled/../../../libswscale -Lpc-uninstalled/../../../libpostproc -Lpc-uninstalled/../../../libavformat -Lpc-uninstalled/../../../libavcodec -Lpc-uninstalled/../../../libswresample -Lpc-uninstalled/../../../libavutil -lavdevice -lavfilter -lpostproc -lavformat -lavcodec -lswresample -lswscale -lavutil    -lm -o decoding_encoding
+cc   fshDecode.o  -Wl,-rpath,pc-uninstalled/../../../libavdevice -Wl,-rpath,pc-uninstalled/../../../libavfilter -Wl,-rpath,pc-uninstalled/../../../libswscale -Wl,-rpath,pc-uninstalled/../../../libpostproc -Wl,-rpath,pc-uninstalled/../../../libavformat -Wl,-rpath,pc-uninstalled/../../../libavcodec -Wl,-rpath,pc-uninstalled/../../../libswresample -Wl,-rpath,pc-uninstalled/../../../libavutil -Lpc-uninstalled/../../../libavdevice -Lpc-uninstalled/../../../libavfilter -Lpc-uninstalled/../../../libswscale -Lpc-uninstalled/../../../libpostproc -Lpc-uninstalled/../../../libavformat -Lpc-uninstalled/../../../libavcodec -Lpc-uninstalled/../../../libswresample -Lpc-uninstalled/../../../libavutil -lavdevice -lavfilter -lpostproc -lavformat -lavcodec -lswresample -lswscale -lavutil    -lpthread -o fshDecode
+fsh@ppi-PowerEdge-R430:~/examples$ ./fshPile.sh concat[C[C[C[C
+fileEnd is 259201152
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_2.pcm
+>>> check buffer size is 32400000
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_3.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_4.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_5.pcm
+>>> Decode audio file syw/big.mp2 to syw/big_1.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_6.pcm
+>>> check buffer size is 32401152
+>>> Decode audio file syw/big.mp2 to syw/big_7.pcm
+>>> the start point is 97200000
+>>> the start point is 0
+>>> the start point is 162000000
+>>> the start point is 129600000
+>>> the start point is 32400000
+>>> the start point is 194400000
+>>> the start point is 64800000
+>>> the start point is 226800000
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+Output #0, mp2, to 'syw/big_7.mp2':
+Output #0, mp2, to 'syw/big_4.mp2':
+Output #0, mp2, to 'syw/big_2.mp2':
+Output #0, mp2, to 'syw/big_0.mp2':
+Output #0, mp2, to 'syw/big_1.mp2':
+    Stream #0:0    Stream #0:0    Stream #0:0: Unknown: none
+Output #0, mp2, to 'syw/big_6.mp2':
+    Stream #0:0: Unknown: none
+: Unknown: none
+Output #0, mp2, to 'syw/big_3.mp2':
+    Stream #0:0[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mOutput #0, mp2, to 'syw/big_5.mp2':
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7fd32c000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fd32c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7fd330000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fd330000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7fd324000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+    Stream #0:0: Unknown: none
+: Unknown: none
+: Unknown: none
+[1;35m[mp2 @ 0x7fd33c000f00] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fd33c000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7fd31c000b20] [0mpivot initial size is 4608
+first ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fd31c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7fd334000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fd334000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7fd328000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fd328000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m    Stream #0:0pivot initial size is 4608
+: Unknown: nonefirst ftell is 0
+
+[1;35m[mp2 @ 0x7fd338000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fd338000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0x1799b40] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0x179d1a0] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+[0;35m[mp3 @ 0x17b6420] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   18650kB time=00:19:53.59 bitrate= 128.0kbits/s speed=2.39e+03x    [0;35m[mp3 @ 0x17b6420] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 1 times
+size=   39414kB time=00:42:02.47 bitrate= 128.0kbits/s speed=2.52e+03x    [0;35m[mp3 @ 0x17b6420] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m[0;35m[mp3 @ 0x1799e40] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   60248kB time=01:04:15.88 bitrate= 128.0kbits/s speed=2.57e+03x    [0;35m[mp3 @ 0x1799e40] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 1 times
+size=   81140kB time=01:26:32.97 bitrate= 128.0kbits/s speed=2.6e+03x    size=   84375kB time=01:30:00.02 bitrate= 128.0kbits/s speed=2.6e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m2.091s
+user	0m1.652s
+sys	0m0.436s
+fsh@ppi-PowerEdge-R430:~/examples$ exit
+exit

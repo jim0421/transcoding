@@ -1,0 +1,2357 @@
+fsh@ppi-PowerEdge-R430:~/examples$ ./fsh[K[K[K[K[K./mulTime.sh 
+fileEnd is 259200000
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_2.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_1.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_4.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_3.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_5.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_6.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_7.pcm
+>>> the start point is 32400000
+>>> the start point is 162000000
+>>> the start point is 194400000
+>>> the start point is 0
+>>> the start point is 226800000
+>>> the start point is 129600000
+>>> the start point is 64800000
+>>> the start point is 97200000
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+Output #0, mp2, to 'syw/big_3.mp2':
+Output #0, mp2, to 'syw/big_4.mp2':
+Output #0, mp2, to 'syw/big_6.mp2':
+Output #0, mp2, to 'syw/big_5.mp2':
+Output #0, mp2, to 'syw/big_1.mp2':
+    Stream #0:0: Unknown: nonepivot start time is 0
+Output #0, mp2, to 'syw/big_0.mp2':
+    Stream #0:0    Stream #0:0: Unknown: none
+Output #0, mp2, to 'syw/big_2.mp2':
+    Stream #0:0: Unknown: noneOutput #0, mp2, to 'syw/big_7.mp2':
+: Unknown: none
+    Stream #0:0: Unknown: none
+    Stream #0:0[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f2bbc000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m
+pivot initial size is 4608
+first ftell is 0
+    Stream #0:0: Unknown: none
+
+[1;35m[mp2 @ 0x7f2bc0000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m    Stream #0:0: Unknown: none
+: Unknown: none
+[1;35m[mp2 @ 0x7f2bc0000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f2bcc000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f2bcc000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7f2bb8000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7f2bb8000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mfirst ftell is 0
+pivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f2bd8000f00] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f2bd8000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f2bc4000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f2bc4000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f2bc8000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f2bc8000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7f2bd0000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f2bd0000b20] [0mpivot initial size is 4608
+[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mfirst ftell is 0
+pivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0x19dcb40] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0x19e01a0] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+[0;35m[mp3 @ 0x19f9420] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   18783kB time=00:20:02.08 bitrate= 128.0kbits/s speed=2.4e+03x    [0;35m[mp3 @ 0x19f9420] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 1 times
+size=   39608kB time=00:42:14.92 bitrate= 128.0kbits/s speed=2.53e+03x    [0;35m[mp3 @ 0x19f9420] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m[0;35m[mp3 @ 0x19dce40] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   60366kB time=01:04:23.40 bitrate= 128.0kbits/s speed=2.58e+03x    [0;35m[mp3 @ 0x19dce40] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 1 times
+size=   81238kB time=01:26:39.24 bitrate= 128.0kbits/s speed=2.6e+03x    size=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.6e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m7.425s
+user	0m40.504s
+sys	0m2.132s
+fileEnd is 259200000
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_1.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_3.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_5.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_2.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_4.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_6.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_7.pcm
+>>> the start point is 0
+>>> the start point is 129600000
+>>> the start point is 194400000
+>>> the start point is 32400000
+>>> the start point is 97200000
+>>> the start point is 162000000
+>>> the start point is 226800000
+>>> the start point is 64800000
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+Output #0, mp2, to 'syw/big_7.mp2':
+Output #0, mp2, to 'syw/big_4.mp2':
+Output #0, mp2, to 'syw/big_2.mp2':
+Output #0, mp2, to 'syw/big_6.mp2':
+Output #0, mp2, to 'syw/big_1.mp2':
+Output #0, mp2, to 'syw/big_5.mp2':
+Output #0, mp2, to 'syw/big_3.mp2':
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+
+[1;35m[mp2 @ 0x7f01e0000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f01e0000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7f01e4000b20] [0mpivot initial size is 4608
+[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mfirst ftell is 0
+Output #0, mp2, to 'syw/big_0.mp2':
+pivot initial size is 4608
+first ftell is 0
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f01dc000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f01dc000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7f01e8000f00] [0mpivot initial size is 4608
+first ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f01e8000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7f01d0000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f01d0000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f01d4000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f01d4000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f01d8000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f01d8000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m    Stream #0:0: Unknown: nonepivot initial size is 4608
+
+first ftell is 0
+[1;35m[mp2 @ 0x7f01c8000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f01c8000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0x74eb40] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0x7521a0] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+[0;35m[mp3 @ 0x76b420] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   18324kB time=00:19:32.76 bitrate= 128.0kbits/s speed=2.35e+03x    [0;35m[mp3 @ 0x76b420] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 1 times
+size=   38290kB time=00:40:50.54 bitrate= 128.0kbits/s speed=2.45e+03x    [0;35m[mp3 @ 0x76b420] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m[0;35m[mp3 @ 0x74ee40] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   58165kB time=01:02:02.56 bitrate= 128.0kbits/s speed=2.48e+03x    [0;35m[mp3 @ 0x74ee40] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 1 times
+size=   78174kB time=01:23:23.16 bitrate= 128.0kbits/s speed=2.5e+03x    size=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.51e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m9.296s
+user	0m40.428s
+sys	0m2.332s
+fileEnd is 259200000
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_2.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_1.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_3.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_4.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_5.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_6.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_7.pcm
+>>> the start point is 0
+>>> the start point is 162000000
+>>> the start point is 64800000
+>>> the start point is 32400000
+>>> the start point is 97200000
+>>> the start point is 129600000
+>>> the start point is 194400000
+>>> the start point is 226800000
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+Output #0, mp2, to 'syw/big_3.mp2':
+Output #0, mp2, to 'syw/big_5.mp2':
+Output #0, mp2, to 'syw/big_2.mp2':
+Output #0, mp2, to 'syw/big_4.mp2':
+Output #0, mp2, to 'syw/big_0.mp2':
+Output #0, mp2, to 'syw/big_6.mp2':
+    Stream #0:0: Unknown: none
+Output #0, mp2, to 'syw/big_7.mp2':
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+Output #0, mp2, to 'syw/big_1.mp2':
+[1;35m[mp2 @ 0x7fb5d8000f00] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb5d8000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7fb5c4000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb5c4000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+    Stream #0:0pivot initial size is 4608
+first ftell is 0
+: Unknown: none
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7fb5d0000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb5d0000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7fb5d4000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb5d4000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7fb5b8000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb5b8000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7fb5c8000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb5c8000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7fb5c0000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb5c0000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7fb5bc000b20] [0mpivot initial size is 4608
+first ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb5bc000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0x9d8b40] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0x9dc1a0] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+[0;35m[mp3 @ 0x9f5420] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   18508kB time=00:19:44.52 bitrate= 128.0kbits/s speed=2.37e+03x    [0;35m[mp3 @ 0x9f5420] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 1 times
+size=   38998kB time=00:41:35.85 bitrate= 128.0kbits/s speed=2.5e+03x    [0;35m[mp3 @ 0x9f5420] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m[0;35m[mp3 @ 0x9d8e40] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   59533kB time=01:03:30.12 bitrate= 128.0kbits/s speed=2.54e+03x    [0;35m[mp3 @ 0x9d8e40] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 1 times
+size=   80206kB time=01:25:33.21 bitrate= 128.0kbits/s speed=2.57e+03x    size=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.57e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m7.549s
+user	0m40.520s
+sys	0m2.360s
+fileEnd is 259200000
+>>> check buffer size is 32400000
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_1.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_3.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_2.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_4.pcm
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_5.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_6.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_7.pcm
+>>> the start point is 97200000
+>>> the start point is 129600000
+>>> the start point is 64800000
+>>> the start point is 162000000
+>>> the start point is 32400000
+>>> the start point is 0
+>>> the start point is 194400000
+>>> the start point is 226800000
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+Output #0, mp2, to 'syw/big_6.mp2':
+Output #0, mp2, to 'syw/big_2.mp2':
+Output #0, mp2, to 'syw/big_0.mp2':
+    Stream #0:0: Unknown: none
+Output #0, mp2, to 'syw/big_4.mp2':
+    Stream #0:0: Unknown: none
+Output #0, mp2, to 'syw/big_5.mp2':
+Output #0, mp2, to 'syw/big_3.mp2':
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f5540000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f554c000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f554c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7f5544000b20] [0mpivot initial size is 4608
+first ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f5544000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+Output #0, mp2, to 'syw/big_7.mp2':
+first ftell is 0
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f5540000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m    Stream #0:0: Unknown: nonepivot initial size is 4608
+
+first ftell is 0
+    Stream #0:0: Unknown: none
+Output #0, mp2, to 'syw/big_1.mp2':
+[1;35m[mp2 @ 0x7f5534000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f5534000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f5554000f00] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f5554000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m    Stream #0:0pivot initial size is 4608
+first ftell is 0
+: Unknown: none
+[1;35m[mp2 @ 0x7f552c000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f552c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f553c000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f553c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7f5538000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f5538000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0x1baab40] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0x1bae1a0] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+[0;35m[mp3 @ 0x1bc7420] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   20254kB time=00:21:36.26 bitrate= 128.0kbits/s speed=2.59e+03x    [0;35m[mp3 @ 0x1bc7420] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 2 times    Last message repeated 2 times
+size=   42370kB time=00:45:11.68 bitrate= 128.0kbits/s speed=2.71e+03x    [0;35m[mp3 @ 0x1baae40] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 1 times
+size=   64498kB time=01:08:47.88 bitrate= 128.0kbits/s speed=2.75e+03x    [0;35m[mp3 @ 0x1baae40] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.77e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m7.448s
+user	0m40.312s
+sys	0m2.380s
+fileEnd is 259200000
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_1.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_2.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_3.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_4.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_5.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_6.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_7.pcm
+>>> the start point is 64800000
+>>> the start point is 97200000
+>>> the start point is 32400000
+>>> the start point is 0
+>>> the start point is 194400000
+>>> the start point is 129600000
+>>> the start point is 162000000
+>>> the start point is 226800000
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+Output #0, mp2, to 'syw/big_0.mp2':
+Output #0, mp2, to 'syw/big_1.mp2':
+Output #0, mp2, to 'syw/big_4.mp2':
+Output #0, mp2, to 'syw/big_2.mp2':
+Output #0, mp2, to 'syw/big_5.mp2':
+Output #0, mp2, to 'syw/big_6.mp2':
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f8734000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f8730000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f8730000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7f8738000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f8738000b20] [0mpivot initial size is 4608
+[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mfirst ftell is 0
+pivot initial size is 4608
+Output #0, mp2, to 'syw/big_7.mp2':
+first ftell is 0
+[1;35m[mp2 @ 0x7f8734000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f8728000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f8728000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7f873c000f00] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f873c000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+    Stream #0:0: Unknown: none
+Output #0, mp2, to 'syw/big_3.mp2':
+[1;35m[mp2 @ 0x7f8720000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f8720000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7f8724000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f8724000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f872c000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f872c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0xe2eb40] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0xe321a0] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+[0;35m[mp3 @ 0xe4b420] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   19427kB time=00:20:43.32 bitrate= 128.0kbits/s speed=2.49e+03x    [0;35m[mp3 @ 0xe4b420] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 1 times
+size=   41044kB time=00:43:46.84 bitrate= 128.0kbits/s speed=2.63e+03x    [0;35m[mp3 @ 0xe4b420] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m[0;35m[mp3 @ 0xe2ee40] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   62589kB time=01:06:45.72 bitrate= 128.0kbits/s speed=2.67e+03x    [0;35m[mp3 @ 0xe2ee40] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 1 times
+size=   84126kB time=01:29:44.08 bitrate= 128.0kbits/s speed=2.69e+03x    size=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.69e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m7.352s
+user	0m39.904s
+sys	0m2.356s
+fileEnd is 259200000
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_2.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_1.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_5.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_3.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_4.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_6.pcm
+>>> check buffer size is 32400000
+>>> Decode audio file syw/big.mp2 to syw/big_7.pcm
+>>> the start point is 162000000
+>>> the start point is 129600000
+>>> the start point is 0
+>>> the start point is 97200000
+>>> the start point is 194400000
+>>> the start point is 64800000
+>>> the start point is 32400000
+>>> the start point is 226800000
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+Output #0, mp2, to 'syw/big_3.mp2':
+Output #0, mp2, to 'syw/big_5.mp2':
+Output #0, mp2, to 'syw/big_2.mp2':
+Output #0, mp2, to 'syw/big_0.mp2':
+Output #0, mp2, to 'syw/big_1.mp2':
+Output #0, mp2, to 'syw/big_7.mp2':
+Output #0, mp2, to 'syw/big_6.mp2':
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+    Stream #0:0[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f3df0000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+: Unknown: none
+[1;35m[mp2 @ 0x7f3dd8000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f3de0000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f3de0000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+Output #0, mp2, to 'syw/big_4.mp2':
+first ftell is 0
+[1;35m[mp2 @ 0x7f3df8000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f3df8000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f3e08000f00] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f3e08000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f3dd8000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m    Stream #0:0pivot initial size is 4608
+: Unknown: nonefirst ftell is 0
+
+[1;35m[mp2 @ 0x7f3e00000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f3e00000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7f3de4000b20] [0mpivot initial size is 4608
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mfirst ftell is 0
+[1;35m[mp2 @ 0x7f3de4000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m    Stream #0:0: Unknown: none
+pivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f3de8000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f3de8000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0x6e3b40] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0x6e71a0] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+[0;35m[mp3 @ 0x700420] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   19464kB time=00:20:45.69 bitrate= 128.0kbits/s speed=2.49e+03x    [0;35m[mp3 @ 0x700420] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 1 times
+size=   41212kB time=00:43:57.60 bitrate= 128.0kbits/s speed=2.64e+03x    [0;35m[mp3 @ 0x700420] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m[0;35m[mp3 @ 0x6e3e40] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   62962kB time=01:07:09.60 bitrate= 128.0kbits/s speed=2.69e+03x    [0;35m[mp3 @ 0x6e3e40] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0m    Last message repeated 1 times    Last message repeated 1 times
+size=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.72e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m7.483s
+user	0m40.252s
+sys	0m2.416s
+fsh@ppi-PowerEdge-R430:~/examples$ dsa[K[K[Kexit
+exit
+fsh@ppi-PowerEdge-R430:~/examples$ ./mulTime.sh 
+fileEnd is 259200000
+>>> check buffer size is 64800000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> check buffer size is 64800000
+>>> Decode audio file syw/big.mp2 to syw/big_2.pcm
+>>> check buffer size is 64800000
+>>> Decode audio file syw/big.mp2 to syw/big_1.pcm
+>>> check buffer size is 64800000
+>>> Decode audio file syw/big.mp2 to syw/big_3.pcm
+>>> the start point is 129600000
+>>> the start point is 64800000
+>>> the start point is 0
+>>> the start point is 194400000
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+Output #0, mp2, to 'syw/big_0.mp2':
+Output #0, mp2, to 'syw/big_2.mp2':
+Output #0, mp2, to 'syw/big_1.mp2':
+Output #0, mp2, to 'syw/big_3.mp2':
+    Stream #0:0: Unknown: none
+    Stream #0:0    Stream #0:0: Unknown: none
+: Unknown: none
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f2c98000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f2c98000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f2ca0000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f2ca0000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7f2ca8000b20] [0mpivot initial size is 4608
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mfirst ftell is 0
+[1;35m[mp2 @ 0x7f2ca8000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f2cb0000f00] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f2cb0000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0x922760] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0x926000] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+size=   18104kB time=00:19:18.62 bitrate= 128.0kbits/s speed=2.32e+03x    [0;35m[mp3 @ 0x924ce0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   38028kB time=00:40:33.81 bitrate= 128.0kbits/s speed=2.43e+03x    [0;35m[mp3 @ 0x924ce0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   58026kB time=01:01:53.66 bitrate= 128.0kbits/s speed=2.48e+03x    [0;35m[mp3 @ 0x924ce0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   77869kB time=01:23:03.62 bitrate= 128.0kbits/s speed=2.49e+03x    size=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.5e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m12.775s
+user	0m40.068s
+sys	0m2.692s
+fileEnd is 259200000
+>>> check buffer size is 64800000
+>>> check buffer size is 64800000
+>>> Decode audio file syw/big.mp2 to syw/big_3.pcm
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> check buffer size is 64800000
+>>> Decode audio file syw/big.mp2 to syw/big_2.pcm
+>>> check buffer size is 64800000
+>>> Decode audio file syw/big.mp2 to syw/big_1.pcm
+>>> the start point is 0
+>>> the start point is 64800000
+>>> the start point is 129600000
+>>> the start point is 194400000
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+Output #0, mp2, to 'syw/big_0.mp2':
+Output #0, mp2, to 'syw/big_3.mp2':
+Output #0, mp2, to 'syw/big_1.mp2':
+Output #0, mp2, to 'syw/big_2.mp2':
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7fb878000f00] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb878000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+    Stream #0:0first ftell is 0
+: Unknown: none
+[1;35m[mp2 @ 0x7fb86c000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb86c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7fb870000b20] [0mpivot initial size is 4608
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mfirst ftell is 0
+[1;35m[mp2 @ 0x7fb870000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7fb868000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fb868000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0x1c54760] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0x1c58000] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+size=   18033kB time=00:19:14.11 bitrate= 128.0kbits/s speed=2.31e+03x    [0;35m[mp3 @ 0x1c56ce0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   37323kB time=00:39:48.69 bitrate= 128.0kbits/s speed=2.39e+03x    [0;35m[mp3 @ 0x1c56ce0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   54233kB time=00:57:50.90 bitrate= 128.0kbits/s speed=2.31e+03x    [0;35m[mp3 @ 0x1c56ce0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   73613kB time=01:18:31.24 bitrate= 128.0kbits/s speed=2.36e+03x    size=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.37e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m13.031s
+user	0m39.828s
+sys	0m2.852s
+fileEnd is 259200000
+>>> check buffer size is 64800000
+>>> check buffer size is 64800000
+>>> check buffer size is 64800000
+>>> Decode audio file syw/big.mp2 to syw/big_3.pcm
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> check buffer size is 64800000
+>>> Decode audio file syw/big.mp2 to syw/big_1.pcm
+>>> Decode audio file syw/big.mp2 to syw/big_2.pcm
+>>> the start point is 64800000
+>>> the start point is 194400000
+>>> the start point is 129600000
+>>> the start point is 0
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+Output #0, mp2, to 'syw/big_1.mp2':
+Output #0, mp2, to 'syw/big_3.mp2':
+Output #0, mp2, to 'syw/big_2.mp2':
+Output #0, mp2, to 'syw/big_0.mp2':
+    Stream #0:0: Unknown: none    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f8e84000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f8e84000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f8e9c000f00] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f8e9c000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7f8e8c000b20] [0mpivot initial size is 4608
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mfirst ftell is 0
+[1;35m[mp2 @ 0x7f8e8c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7f8e94000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f8e94000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0x1aff760] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0x1b03000] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+size=   19139kB time=00:20:24.88 bitrate= 128.0kbits/s speed=2.45e+03x    [0;35m[mp3 @ 0x1b01ce0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   38208kB time=00:40:45.33 bitrate= 128.0kbits/s speed=2.45e+03x    [0;35m[mp3 @ 0x1b01ce0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   57270kB time=01:01:05.30 bitrate= 128.0kbits/s speed=2.44e+03x    [0;35m[mp3 @ 0x1b01ce0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   76408kB time=01:21:30.14 bitrate= 128.0kbits/s speed=2.45e+03x    size=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.44e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m13.092s
+user	0m40.620s
+sys	0m2.896s
+fileEnd is 259200000
+>>> check buffer size is 64800000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> check buffer size is 64800000
+>>> Decode audio file syw/big.mp2 to syw/big_1.pcm
+>>> check buffer size is 64800000
+>>> Decode audio file syw/big.mp2 to syw/big_2.pcm
+>>> check buffer size is 64800000
+>>> Decode audio file syw/big.mp2 to syw/big_3.pcm
+>>> the start point is 129600000
+>>> the start point is 64800000
+>>> the start point is 194400000
+>>> the start point is 0
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+Output #0, mp2, to 'syw/big_0.mp2':
+Output #0, mp2, to 'syw/big_2.mp2':
+Output #0, mp2, to 'syw/big_3.mp2':
+Output #0, mp2, to 'syw/big_1.mp2':
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f0658000f00] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f0658000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7f0650000b20] [0mpivot initial size is 4608
+first ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f0650000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7f0654000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f0654000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7f0648000b20] [0mpivot initial size is 4608
+first ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f0648000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0x1edf760] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0x1ee3000] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+size=   17354kB time=00:18:30.62 bitrate= 128.0kbits/s speed=2.22e+03x    [0;35m[mp3 @ 0x1ee1ce0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   36665kB time=00:39:06.55 bitrate= 128.0kbits/s speed=2.35e+03x    [0;35m[mp3 @ 0x1ee1ce0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   55981kB time=00:59:42.79 bitrate= 128.0kbits/s speed=2.39e+03x    [0;35m[mp3 @ 0x1ee1ce0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   75287kB time=01:20:18.36 bitrate= 128.0kbits/s speed=2.41e+03x    size=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.41e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m13.240s
+user	0m40.704s
+sys	0m2.788s
+fileEnd is 259200000
+>>> check buffer size is 64800000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> check buffer size is 64800000
+>>> Decode audio file syw/big.mp2 to syw/big_1.pcm
+>>> check buffer size is 64800000
+>>> Decode audio file syw/big.mp2 to syw/big_3.pcm
+>>> check buffer size is 64800000
+>>> Decode audio file syw/big.mp2 to syw/big_2.pcm
+>>> the start point is 129600000
+>>> the start point is 64800000
+>>> the start point is 0
+>>> the start point is 194400000
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+Output #0, mp2, to 'syw/big_1.mp2':
+Output #0, mp2, to 'syw/big_3.mp2':
+Output #0, mp2, to 'syw/big_0.mp2':
+Output #0, mp2, to 'syw/big_2.mp2':
+    Stream #0:0    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+: Unknown: none
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f853c000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f853c000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f8540000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f8540000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f8548000f00] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f8548000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7f8538000b20] [0mpivot initial size is 4608
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mfirst ftell is 0
+[1;35m[mp2 @ 0x7f8538000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0x247c760] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0x2480000] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+size=   18177kB time=00:19:23.30 bitrate= 128.0kbits/s speed=2.33e+03x    [0;35m[mp3 @ 0x247ece0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   38385kB time=00:40:56.64 bitrate= 128.0kbits/s speed=2.46e+03x    [0;35m[mp3 @ 0x247ece0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   58572kB time=01:02:28.60 bitrate= 128.0kbits/s speed=2.5e+03x    [0;35m[mp3 @ 0x247ece0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   78698kB time=01:23:56.68 bitrate= 128.0kbits/s speed=2.52e+03x    size=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.52e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m12.759s
+user	0m40.044s
+sys	0m2.628s
+fileEnd is 259200000
+>>> check buffer size is 64800000
+>>> Decode audio file syw/big.mp2 to syw/big_1.pcm
+>>> check buffer size is 64800000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> check buffer size is 64800000
+>>> Decode audio file syw/big.mp2 to syw/big_2.pcm
+>>> check buffer size is 64800000
+>>> Decode audio file syw/big.mp2 to syw/big_3.pcm
+>>> the start point is 194400000
+>>> the start point is 64800000
+>>> the start point is 129600000
+>>> the start point is 0
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+pivot start time is 0
+Output #0, mp2, to 'syw/big_0.mp2':
+Output #0, mp2, to 'syw/big_3.mp2':
+Output #0, mp2, to 'syw/big_1.mp2':
+Output #0, mp2, to 'syw/big_2.mp2':
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f0ac0000f00] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f0ac0000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7f0ab0000b20] [0mpivot initial size is 4608
+first ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f0ab0000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+[1;35m[mp2 @ 0x7f0ab8000b20] [0mfirst ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f0ab8000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7f0aa8000b20] [0mpivot initial size is 4608
+first ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f0aa8000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0xd07760] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0xd0b000] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+size=   20128kB time=00:21:28.22 bitrate= 128.0kbits/s speed=2.58e+03x    [0;35m[mp3 @ 0xd09ce0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   40023kB time=00:42:41.49 bitrate= 128.0kbits/s speed=2.56e+03x    [0;35m[mp3 @ 0xd09ce0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   60037kB time=01:04:02.37 bitrate= 128.0kbits/s speed=2.56e+03x    [0;35m[mp3 @ 0xd09ce0] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   79887kB time=01:25:12.74 bitrate= 128.0kbits/s speed=2.56e+03x    size=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.55e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m13.005s
+user	0m40.404s
+sys	0m2.648s
+fsh@ppi-PowerEdge-R430:~/examples$ exit
+exit
+fsh@ppi-PowerEdge-R430:~/examples$ ./mulTime.sh 
+fileEnd is 259200000
+>>> check buffer size is 129600000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> check buffer size is 129600000
+>>> Decode audio file syw/big.mp2 to syw/big_1.pcm
+>>> the start point is 0
+>>> the start point is 129600000
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot start time is 0
+Output #0, mp2, to 'syw/big_1.mp2':
+Output #0, mp2, to 'syw/big_0.mp2':
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f5228000f00] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f5228000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f5220000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f5220000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0x1102660] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0x1105f80] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+size=   16650kB time=00:17:45.60 bitrate= 128.0kbits/s speed=2.13e+03x    size=   34901kB time=00:37:13.68 bitrate= 128.0kbits/s speed=2.23e+03x    [0;35m[mp3 @ 0x1104c60] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   54106kB time=00:57:42.81 bitrate= 128.0kbits/s speed=2.31e+03x    size=   73444kB time=01:18:20.42 bitrate= 128.0kbits/s speed=2.35e+03x    size=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.37e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m23.439s
+user	0m39.272s
+sys	0m2.856s
+fileEnd is 259200000
+>>> check buffer size is 129600000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> check buffer size is 129600000
+>>> Decode audio file syw/big.mp2 to syw/big_1.pcm
+>>> the start point is 0
+>>> the start point is 129600000
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot start time is 0
+Output #0, mp2, to 'syw/big_0.mp2':
+Output #0, mp2, to 'syw/big_1.mp2':
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7fa8c0000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fa8c0000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7fa8c8000f00] [0mpivot initial size is 4608
+first ftell is 0
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fa8c8000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0xe08660] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0xe0bf80] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+size=   17016kB time=00:18:09.04 bitrate= 128.0kbits/s speed=2.18e+03x    size=   36742kB time=00:39:11.47 bitrate= 128.0kbits/s speed=2.35e+03x    [0;35m[mp3 @ 0xe0ac60] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   56474kB time=01:00:14.35 bitrate= 128.0kbits/s speed=2.41e+03x    size=   76278kB time=01:21:21.79 bitrate= 128.0kbits/s speed=2.44e+03x    size=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.45e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m22.402s
+user	0m38.280s
+sys	0m2.916s
+fileEnd is 259200000
+>>> check buffer size is 129600000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> check buffer size is 129600000
+>>> Decode audio file syw/big.mp2 to syw/big_1.pcm
+>>> the start point is 129600000
+>>> the start point is 0
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot start time is 0
+Output #0, mp2, to 'syw/big_1.mp2':
+Output #0, mp2, to 'syw/big_0.mp2':
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f37a8000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f37a8000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7f37b0000f00] [0mpivot initial size is 4608
+[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0mfirst ftell is 0
+[1;35m[mp2 @ 0x7f37b0000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0x21b6660] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0x21b9f80] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+size=   17283kB time=00:18:26.11 bitrate= 128.0kbits/s speed=2.21e+03x    size=   36268kB time=00:38:41.16 bitrate= 128.0kbits/s speed=2.32e+03x    [0;35m[mp3 @ 0x21b8c60] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   54081kB time=00:57:41.16 bitrate= 128.0kbits/s speed=2.31e+03x    size=   73101kB time=01:17:58.46 bitrate= 128.0kbits/s speed=2.34e+03x    size=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.36e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m23.227s
+user	0m37.972s
+sys	0m3.156s
+fileEnd is 259200000
+>>> check buffer size is 129600000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> check buffer size is 129600000
+>>> Decode audio file syw/big.mp2 to syw/big_1.pcm
+>>> the start point is 0
+>>> the start point is 129600000
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot start time is 0
+Output #0, mp2, to 'syw/big_1.mp2':
+Output #0, mp2, to 'syw/big_0.mp2':
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7fea78000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fea78000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7fea80000f00] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7fea80000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0xd7f660] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0xd82f80] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+size=   16991kB time=00:18:07.41 bitrate= 128.0kbits/s speed=2.17e+03x    size=   36208kB time=00:38:37.34 bitrate= 128.0kbits/s speed=2.32e+03x    [0;35m[mp3 @ 0xd81c60] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   56160kB time=00:59:54.24 bitrate= 128.0kbits/s speed=2.4e+03x    size=   76557kB time=01:21:39.64 bitrate= 128.0kbits/s speed=2.45e+03x    size=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.46e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m22.240s
+user	0m38.088s
+sys	0m2.932s
+fileEnd is 259200000
+>>> check buffer size is 129600000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> check buffer size is 129600000
+>>> Decode audio file syw/big.mp2 to syw/big_1.pcm
+>>> the start point is 0
+>>> the start point is 129600000
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot start time is 0
+Output #0, mp2, to 'syw/big_0.mp2':
+Output #0, mp2, to 'syw/big_1.mp2':
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f63b4000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f63b4000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+[1;35m[mp2 @ 0x7f63bc000f00] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f63bc000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0x6be660] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0x6c1f80] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+size=   17257kB time=00:18:24.43 bitrate= 128.0kbits/s speed=2.21e+03x    size=   36114kB time=00:38:31.29 bitrate= 128.0kbits/s speed=2.31e+03x    [0;35m[mp3 @ 0x6c0c60] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   54801kB time=00:58:27.24 bitrate= 128.0kbits/s speed=2.34e+03x    size=   73896kB time=01:18:49.34 bitrate= 128.0kbits/s speed=2.36e+03x    size=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.38e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m22.800s
+user	0m38.368s
+sys	0m2.944s
+fileEnd is 259200000
+>>> check buffer size is 129600000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> check buffer size is 129600000
+>>> Decode audio file syw/big.mp2 to syw/big_1.pcm
+>>> the start point is 129600000
+>>> the start point is 0
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+pivot start time is 0
+Output #0, mp2, to 'syw/big_0.mp2':
+Output #0, mp2, to 'syw/big_1.mp2':
+    Stream #0:0: Unknown: none
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f89a0000f00] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f8998000b20] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f8998000b20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0m[1;35m[mp2 @ 0x7f89a0000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+pivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0x1104660] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0x1107f80] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+size=   17391kB time=00:18:33.00 bitrate= 128.0kbits/s speed=2.23e+03x    size=   34034kB time=00:36:18.19 bitrate= 128.0kbits/s speed=2.18e+03x    [0;35m[mp3 @ 0x1106c60] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0msize=   53886kB time=00:57:28.68 bitrate= 128.0kbits/s speed=2.3e+03x    size=   73909kB time=01:18:50.18 bitrate= 128.0kbits/s speed=2.37e+03x    size=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.38e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m22.367s
+user	0m38.160s
+sys	0m3.056s
+fsh@ppi-PowerEdge-R430:~/examples$ exit
+exit
+fsh@ppi-PowerEdge-R430:~/examples$ ./mulTime.sh | grep [K[K[K[K[K[K[K[K
+fileEnd is 259200000
+>>> check buffer size is 259200000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> the start point is 0
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+Output #0, mp2, to 'syw/big_0.mp2':
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f0340000f00] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f0340000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0x18ab600] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0x18aef20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+size=   18648kB time=00:19:53.49 bitrate= 128.0kbits/s speed=2.39e+03x    size=   39222kB time=00:41:50.18 bitrate= 128.0kbits/s speed=2.51e+03x    size=   59708kB time=01:03:41.28 bitrate= 128.0kbits/s speed=2.55e+03x    size=   80251kB time=01:25:36.07 bitrate= 128.0kbits/s speed=2.57e+03x    size=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.57e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m40.699s
+user	0m37.348s
+sys	0m2.600s
+fileEnd is 259200000
+>>> check buffer size is 259200000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> the start point is 0
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+Output #0, mp2, to 'syw/big_0.mp2':
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f3eb4000f00] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f3eb4000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0x23c7600] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0x23caf20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+size=   17281kB time=00:18:25.96 bitrate= 128.0kbits/s speed=2.21e+03x    size=   36159kB time=00:38:34.17 bitrate= 128.0kbits/s speed=2.31e+03x    size=   55051kB time=00:58:43.24 bitrate= 128.0kbits/s speed=2.35e+03x    size=   73759kB time=01:18:40.58 bitrate= 128.0kbits/s speed=2.36e+03x    size=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.36e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m40.398s
+user	0m37.344s
+sys	0m2.612s
+fileEnd is 259200000
+>>> check buffer size is 259200000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> the start point is 0
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+Output #0, mp2, to 'syw/big_0.mp2':
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f5374000f00] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f5374000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0x1ff9600] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0x1ffcf20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+size=   18141kB time=00:19:21.02 bitrate= 128.0kbits/s speed=2.32e+03x    size=   37213kB time=00:39:41.61 bitrate= 128.0kbits/s speed=2.38e+03x    size=   56302kB time=01:00:03.36 bitrate= 128.0kbits/s speed=2.4e+03x    size=   74781kB time=01:19:45.96 bitrate= 128.0kbits/s speed=2.39e+03x    size=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.37e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m39.921s
+user	0m36.868s
+sys	0m2.688s
+fileEnd is 259200000
+>>> check buffer size is 259200000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> the start point is 0
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+Output #0, mp2, to 'syw/big_0.mp2':
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f6684000f00] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f6684000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0x2526600] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0x2529f20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+size=   13114kB time=00:13:59.32 bitrate= 128.0kbits/s speed=1.68e+03x    size=   31292kB time=00:33:22.65 bitrate= 128.0kbits/s speed=2e+03x    size=   49587kB time=00:52:53.56 bitrate= 128.0kbits/s speed=2.12e+03x    size=   65743kB time=01:10:07.56 bitrate= 128.0kbits/s speed=2.1e+03x    size=   84270kB time=01:29:53.30 bitrate= 128.0kbits/s speed=2.16e+03x    size=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.16e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m39.877s
+user	0m36.336s
+sys	0m2.828s
+fileEnd is 259200000
+>>> check buffer size is 259200000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> the start point is 0
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+Output #0, mp2, to 'syw/big_0.mp2':
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7f0028000f00] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7f0028000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0x6b5600] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0x6b8f20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+size=   17128kB time=00:18:16.22 bitrate= 128.0kbits/s speed=2.19e+03x    size=   37100kB time=00:39:34.36 bitrate= 128.0kbits/s speed=2.37e+03x    size=   57577kB time=01:01:24.91 bitrate= 128.0kbits/s speed=2.46e+03x    size=   77649kB time=01:22:49.53 bitrate= 128.0kbits/s speed=2.48e+03x    size=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.49e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m40.663s
+user	0m37.416s
+sys	0m2.852s
+fileEnd is 259200000
+>>> check buffer size is 259200000
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> the start point is 0
+come to end of file
+come to end of file
+come to end of file
+come to end of file
+pivot start time is 0
+Output #0, mp2, to 'syw/big_0.mp2':
+    Stream #0:0: Unknown: none
+[1;35m[mp2 @ 0x7ff3f4000f00] [0m[0;33mUsing AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[0m[1;35m[mp2 @ 0x7ff3f4000f00] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mpivot initial size is 4608
+first ftell is 0
+End of file
+转码完毕！！！
+ffmpeg version 3.1.1 Copyright (c) 2000-2016 the FFmpeg developers
+  built with gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609
+  configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --enable-decoder=aac --enable-encoder=aac --enable-parser=aac --extra-cflags=-g --extra-ldflags=-g
+  WARNING: library configuration mismatch
+  avcodec     configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avformat    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avdevice    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  avfilter    configuration: --enable-shared --enable-libfaac --enable-libx264 --enable-gpl --enable-nonfree --enable-yasm --enable-debug --extra-cflags=-g --extra-ldflags=-g
+  libavutil      55. 28.100 / 55. 28.100
+  libavcodec     57. 48.101 / 57. 51.100
+  libavformat    57. 41.100 / 57. 44.100
+  libavdevice    57.  0.101 / 57.  0.102
+  libavfilter     6. 47.100 /  6. 49.100
+  libswscale      4.  1.100 /  4.  1.100
+  libswresample   2.  1.100 /  2.  1.100
+  libpostproc    54.  0.100 / 54.  0.100
+[0;35m[mp3 @ 0x73e600] [0m[0;33mEstimating duration from bitrate, this may be inaccurate
+[0mInput #0, concat, from 'audioList.txt':
+  Duration: N/A, start: 0.000000, bitrate: 128 kb/s
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, s16p, 128 kb/s
+[1;35m[mp2 @ 0x741f20] [0m[0;33mUsing AVStream.codec to pass codec parameters to muxers is deprecated, use AVStream.codecpar instead.
+[0mOutput #0, mp2, to 'syw/finalOutput.mp2':
+  Metadata:
+    encoder         : Lavf57.44.100
+    Stream #0:0: Audio: mp2, 48000 Hz, stereo, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+size=   18016kB time=00:19:13.00 bitrate= 128.0kbits/s speed=2.31e+03x    size=   37593kB time=00:40:05.92 bitrate= 128.0kbits/s speed=2.41e+03x    size=   58167kB time=01:02:02.71 bitrate= 128.0kbits/s speed=2.48e+03x    size=   78950kB time=01:24:12.79 bitrate= 128.0kbits/s speed=2.53e+03x    size=   84375kB time=01:30:00.00 bitrate= 128.0kbits/s speed=2.53e+03x    
+video:0kB audio:84375kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.000000%
+
+real	0m39.682s
+user	0m36.380s
+sys	0m2.684s
+fsh@ppi-PowerEdge-R430:~/examples$ exit
+exit

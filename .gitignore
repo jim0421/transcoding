@@ -6,3 +6,21 @@
 
 # pcm files
 *.pcm
+
+# elf files
+*.o
+*.a
+*.out
+
+# tags
+cscope*
+tags
+.tags
+
+# swp
+*.swp
+*.swo
+
+# screenlog
+screenlog*
+

@@ -1,0 +1,8 @@
+fileEnd is 10963905
+>>> check buffer size is 5481216
+>>> Decode audio file syw/big.mp2 to syw/big_0.pcm
+>>> check buffer size is 5482368
+>>> Decode audio file syw/big.mp2 to syw/big_1.pcm
+>>> the start point is 5481216
+pivot avpkt size is 20480
+>>> the start point is 0
