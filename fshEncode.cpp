@@ -113,18 +113,18 @@ int fshEncode(void* args)
     pCodecCtx = audio_st->codec;  
     pCodecCtx->codec_id = fmt->audio_codec;  
     pCodecCtx->codec_type = AVMEDIA_TYPE_AUDIO;  
-    pCodecCtx->sample_fmt = AV_SAMPLE_FMT_S16;  
-    //pCodecCtx->sample_fmt = AV_SAMPLE_FMT_FLTP;  
+    //pCodecCtx->sample_fmt = AV_SAMPLE_FMT_S16;  
+    pCodecCtx->sample_fmt = AV_SAMPLE_FMT_FLTP;  
     pCodecCtx->sample_rate= 48000;               // 音频的采样率  
-    //pCodecCtx->channel_layout=AV_CH_LAYOUT_5POINT1;  
-    pCodecCtx->channel_layout=AV_CH_LAYOUT_STEREO;  
+    pCodecCtx->channel_layout=AV_CH_LAYOUT_5POINT1;  
+    //pCodecCtx->channel_layout=AV_CH_LAYOUT_STEREO;  
     pCodecCtx->channels = av_get_channel_layout_nb_channels(pCodecCtx->channel_layout);  
     pCodecCtx->bit_rate = 64000;             // 音频的比特率  
   
     //调试输出格式信息  
     av_dump_format(pFormatCtx, 0, fileOut, 1);  
   
-    pCodec = avcodec_find_encoder(AV_CODEC_ID_MP2);
+    pCodec = avcodec_find_encoder(AV_CODEC_ID_DTS);
     if (!pCodec)  
     {  
         printf("找不到输入文件所需的编码器!\n");  
@@ -253,7 +253,8 @@ static void fshAllocateThread(fshEss *ess, char* input)
         ess[i].outputName = newString;
         strcpy(ess[i].outputName, input);
         tmpChar = newString;
-        sprintf(tmpChar, "_%d.mp2",i);
+        //sprintf(tmpChar, "_%d.mp2",i);
+        sprintf(tmpChar, "_%d.dts",i);
         strcat(ess[i].outputName, tmpChar);
         free(tmpChar);
         tmpChar = newString;

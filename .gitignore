@@ -4,6 +4,9 @@
 # mp2 files
 *.mp2
 
+# dts files
+*.dts
+
 # pcm files
 *.pcm
 
@@ -11,6 +14,7 @@
 *.o
 *.a
 *.out
+fshDecode
 
 # tags
 cscope*
@@ -24,3 +28,5 @@ tags
 # screenlog
 screenlog*
 
+# chaos
+audioList.txt

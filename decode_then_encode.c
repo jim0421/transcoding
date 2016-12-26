@@ -86,7 +86,7 @@ int main(char arg,char *argv[])
 				if(out_size > 0)
 				{
 					fwrite(inbuf,1,out_size,pcm);//pcm¼ÇÂ¼
-					fflush(pcm);
+					fflush(pcm);//$$ fflush may be important
 				}
 				pktsize -= len;
 				pktdata += len;

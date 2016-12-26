@@ -166,7 +166,7 @@ static void fshDecode(void* args)
         }
         /*step two decode a frame from an avpkt to a frame */ 
         len = avcodec_decode_audio4(c, decoded_frame, &got_frame, &avpkt);
-        /*printf("pivot len is %d\n", len);*/
+        printf("pivot len is %d\n", len);
         if (len < 0) {
             fprintf(stderr, "Error while decoding\n");
             exit(1);
